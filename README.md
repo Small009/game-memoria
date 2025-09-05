@@ -4,8 +4,8 @@ Aula Javascript, Game de Memoria!
 
 ### Usado para o desafio:
 
-* [HTML básico]
-* [CSS básico]
+* [HTML]
+* [CSS]
 * [Javascript]
 
 ## Let's code! 
