@@ -1,4 +1,4 @@
-# Opa Desafio Concluido
+# Opa, Desafio Concluido! :muscle:  
 
 Aula Javascript, Game de Memoria! 
 
@@ -8,4 +8,4 @@ Aula Javascript, Game de Memoria!
 * [CSS]
 * [Javascript]
 
-## Let's code! 
+## Let's code! :eyes:  
